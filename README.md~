@@ -1,6 +1,4 @@
----
-Ed Cai: Final Project Ideas
----
+##Ed Cai: Final Project Ideas
  
 ### WebVR Youtube
 

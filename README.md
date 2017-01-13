@@ -8,8 +8,6 @@ This idea draws inspiration from the popular VR app BigScreenVR, which allows us
 
 This chatroom experience feels like an actual room. Building this app involves modeling a nice-ish looking room where people can enter and chat. Chatting works by typing into your keyboard. The words then appear above your avatar. Characters are able to move around by using the keyboards arrow keys. 
 
-### 3D Cargo Bridge (Game)
+### Photogrammetry: Top Destinations in NYC (or Philly)
 
-For those who are not familar with Cargo Bride: [Cargo Bridge 2](http://www.silvergames.com/cargo-bridge-2) 
-
-It is a physics-based bridge building game where the objective is to build a bridge that is cheap, but still strong enough to carry the cargo from point A to B. My proposal will be to make a similar game in VR where the objective is to create a structure that holds the most weight using a finite amount of resources.
+Valve recently licensed software that allows you to take pictures and stitch them together into a 3D model that you can walk around VR. Normally this software costs $2500, but now you can license it for $23/month. My idea would be to use this software to create models of the top destination in NYC (or Philly) so that people could "visit" these places without having to physically be there. Normally this would not be possible with 360 degree cameras because they cannot infer depth.  
